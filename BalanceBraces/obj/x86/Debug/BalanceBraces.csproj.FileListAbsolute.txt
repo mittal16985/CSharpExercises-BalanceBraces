@@ -5,3 +5,5 @@ C:\Users\pmittal\Dropbox\Books\Interview_Stuff\Reading\Reading_Currently\Balance
 C:\Users\pmittal\Dropbox\Books\Interview_Stuff\Reading\Reading_Currently\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.csprojResolveAssemblyReference.cache
 C:\Users\pmittal\Dropbox\Books\Interview_Stuff\Reading\Reading_Currently\CSharpCodes\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.exe
 C:\Users\pmittal\Dropbox\Books\Interview_Stuff\Reading\Reading_Currently\CSharpCodes\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.pdb
+C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.exe
+C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.pdb
