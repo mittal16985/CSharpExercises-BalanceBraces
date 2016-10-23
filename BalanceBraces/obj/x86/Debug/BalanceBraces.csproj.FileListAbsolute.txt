@@ -7,6 +7,9 @@ C:\Users\pmittal\Dropbox\Books\Interview_Stuff\Reading\Reading_Currently\CSharpC
 C:\Users\pmittal\Dropbox\Books\Interview_Stuff\Reading\Reading_Currently\CSharpCodes\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.pdb
 C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.exe
 C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.pdb
+<<<<<<< HEAD
 C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\bin\Debug\BalanceBraces.exe
 C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\bin\Debug\BalanceBraces.pdb
 C:\Users\pmittal\Desktop\git_Repositories\CSharpExercises\BalanceBraces\BalanceBraces\obj\x86\Debug\BalanceBraces.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> master
